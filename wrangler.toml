@@ -1,2 +1,2 @@
-name = "streambingo"
+name = 'bingo'
 pages_build_output_dir = "."
